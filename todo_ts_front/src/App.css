@@ -1,0 +1,19 @@
+.lists-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+}
+
+.operations {
+  width: 100%;
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 750px) {
+  .lists-container {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
+}
