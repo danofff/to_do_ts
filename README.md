@@ -1,6 +1,6 @@
 # To-do application.
 
-This is simple to-do application, which were written using **Typescript** in both server and client part of application.
+This is simple to-do application, which was written using **Typescript** in both server and client part of application.
 
 Main feature of the project is hadling todos using **drag&drop** technology.
 
